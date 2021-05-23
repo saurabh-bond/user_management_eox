@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/63736960/119264673-c4f03d80-bc01-11eb-
 
 ## Installation 
 
-1. Git clone project in your local : git clone https://github.com/<yourUsername>/user_management_eox.git
+1. Git clone project in your local : git clone https://github.com/yourUsername/user_management_eox.git
 2. Go to cloned folder ( cd user_management_eox ) 
 3. Run composer command to upload vendor ( composer update ) 
 4. php artisan serve 
